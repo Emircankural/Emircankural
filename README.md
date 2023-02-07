@@ -1,9 +1,6 @@
 <div align="center">
   <img height="200" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"  />
 </div>
-
-###
-
 <p align="left"></p>
 
 ###
@@ -15,10 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/emircankural/emircankural/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -36,5 +29,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
-
-###
