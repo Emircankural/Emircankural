@@ -1,7 +1,6 @@
 <div align="center">
-  <img height="200" src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif"  />
+  <img height="350" src="https://i.pinimg.com/originals/b8/71/76/b8717641f46cdfdced2c86e984f07c11.gif"  />
 </div>
-<p align="left"></p>
 
 ###
 
@@ -29,3 +28,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
 </div>
+
+###
